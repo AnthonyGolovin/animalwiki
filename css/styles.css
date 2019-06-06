@@ -22,3 +22,7 @@ img{
 .Gbear{
   display: none;
 }
+p{
+  font-family: sans-serif;
+  text-align: center;
+}

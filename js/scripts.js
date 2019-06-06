@@ -6,7 +6,7 @@ $("select#animals").change(function(){
   if (animals ==1) {
     $(".Rpanda").show();
     $(".Lion").hide();
-      $(".Gbear").hide();
+    $(".Gbear").hide();
   } else if (animals ==2) {
     $(".Lion").show();
     $(".Rpanda").hide();
