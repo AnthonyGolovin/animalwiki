@@ -1,0 +1,24 @@
+.jumbotron {
+  height: ;
+  display: grid;
+  text-align: center;
+  padding-bottom: 300px;
+  margin-bottom: 300px;
+}
+.row{
+  display: hide;
+}
+img{
+  height: 400px;
+  width:600px;
+  float: left;
+}
+.Rpanda{
+  display: none;
+}
+.Lion{
+  display: none;
+}
+.Gbear{
+  display: none;
+}
